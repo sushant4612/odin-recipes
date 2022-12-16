@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(25 253 137);
+}
+
+.head{
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 18, 15);
+}
+
+.b{
+    color: rgb(8, 1, 2);
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.photo{
+    height: auto;
+    width: 277px;
+    align-content: center;
+}
+
+p{
+    font-family: fantasy;
+}
+
+h3{
+    font-family: fantasy;
+    font-weight: 100;
+}
+
+li{
+    font-family: fantasy;
+}
+
+.list{
+    list-style: linear-gradient();
+}
